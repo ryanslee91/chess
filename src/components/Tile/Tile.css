@@ -1,0 +1,16 @@
+.tile {
+	width: 100px;
+	height: 100px;
+}
+
+.black-tile {
+	background-color: rgb(41, 20, 20);
+}
+
+.white-tile {
+	background-color: rgb(164, 119, 85);
+}
+
+img {
+	width: 95px;
+}
